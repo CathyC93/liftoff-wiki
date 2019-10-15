@@ -27,7 +27,7 @@ At this point, you should have your project planning out of the way and have sta
 
 # Next Week
 
-Really push students to start getting code out, if they haven't they should! The first project review is next class and they'll need to have something running.
+Really push students to start getting code out. If they haven't already, they should! The first project review is next class, and they'll need to have something running.
 
 # Weekly Reminders
 
