@@ -5,7 +5,7 @@ Live Coding
 # Due
 Initial project reviews are due (students should have a running project and completed user story)
 # In Class
-The course manager, instructor, volunteers, and you will facilitate live coding interviews for students. If a student passes, instruct them to work towards completing more user stories. If a student fails, talk them through potential ways to improve (You'll find more of that in the Tips & Tricks section).
+The course manager, instructor, volunteers, and you will facilitate live coding interviews for students. If a student passes, instruct them to work towards completing more user stories. If a student fails, talk them through potential ways to improve (more on that in the Tips & Tricks section).
 
 # Class Tips & Tricks
 
@@ -18,7 +18,7 @@ As you are facilitating an interview, remember to answer clarifying questions ra
 
 
 # Next Week
-If students haven't passed live coding remind them to practice problems on sites like hackerrank, leetcode, or codewars. They will have a chance to make up their live coding grade either with you, the course manager, or the instructor. Students should keep working towards completing user stories.
+If students haven't passed live coding, remind them to practice problems on sites like hackerrank, leetcode, or codewars. They will have a chance to make up their live coding grade either with you, the course manager, or the instructor. Students should keep working towards completing user stories.
 
 # Weekly Reminders
 Remind students to commit their work regularly as they complete user stories (each student in your group should have completed at least a user story by now). Also, remind them to keep working towards user stories. Again, as it's a group project, it's a great idea to pair students together to work towards user stories.

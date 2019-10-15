@@ -22,7 +22,7 @@ Students should continue working towards completing their projects. If you have 
 
 # Next Week
 
-We will have our final project reviews. Every project should be at least be at an MVP stage.
+We will have our final project reviews. Every project should at least be at an MVP stage.
 
 # Weekly Reminders
 
